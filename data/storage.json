@@ -1,0 +1,11 @@
+{
+    "storage" : {
+        "categories" : {
+            "main" : 0,
+            "recycle" : 0
+        },
+        "logs" : 0,
+        "server" : 0
+    },
+    "users" : []
+}
